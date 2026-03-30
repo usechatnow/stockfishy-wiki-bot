@@ -1,16 +1,7 @@
-# stockfish-wiki-bot
+# stockfishy-wiki-bot
 
-Custom bot for the stockfish discord,  
+Custom bot for the stockfishy discord,  
 made to easily link to wiki entries on discord.
-
-# Development
-
-```
-git clone https://github.com/Disservin/stockfish-wiki-bot.git
-cd stockfish-wiki-bot
-git submodule update --init
-npm install
-```
 
 Create a new application for discord here <https://discord.com/developers/applications>.
 
